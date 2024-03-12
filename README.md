@@ -9,7 +9,7 @@ However, division is rounded down to 5 digits.<br>
 
 # Usage
 Please put it in the same directory as the python file you want to use.<br>
-Then, write "import beregning" in the python file you want to use.<br>
+Then, write `import beregning` in the python file you want to use.<br>
 
 # command
 num and num2 are all int.<br>
